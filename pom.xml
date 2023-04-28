@@ -25,7 +25,7 @@
         <logback.version>1.2.3</logback.version>
         <args4j.version>2.33</args4j.version>
         <pw-switf.version>SRU2018-7.10.3</pw-switf.version>
-        <telegrambots.version>4.1</telegrambots.version>
+        <telegrambots.version>6.4.0</telegrambots.version>
         <junit.version>4.12</junit.version>
         <netty.version>4.1.33.Final</netty.version>
         <jackson.version>2.10.0</jackson.version>
